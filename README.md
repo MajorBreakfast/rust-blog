@@ -1,6 +1,7 @@
 # MajorBreakfast's Rust blog
 
 Q: Where is the website?
+
 A: Doesn't exist yet :-) Need to build it first
 
 ## Posts
